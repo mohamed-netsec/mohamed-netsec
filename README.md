@@ -10,9 +10,9 @@ I build and document hands-on infrastructure labs covering enterprise networking
 
 -Bachelor in Cybersecurity, INSIM Institut (2025 – présent)
 
--Technicien Supérieur en Administration et Sécurité des Réseaux Informatiques, INSIM Institut (2024 – 2026)
+-AEC (Attestation d'Études Collégiales), Sherbrook Canada (2024 – 2026)
 
--AEC (Attestation d'Études Collégiales), INSIM Institut (2024 – 2026)
+-Technicien Supérieur en Administration et Sécurité des Réseaux Informatiques, INSIM Institut (2024 – 2026)
 
 -Licence L2 Science & Technologie, Université Mentouri Constantine (2019 – 2021)
 
