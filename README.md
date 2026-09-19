@@ -11,15 +11,18 @@ Bachelor in Cybersecurity, INSIM Institut (2025 – 2026)
 Technicien Supérieur en Administration et Sécurité des Réseaux Informatiques, INSIM Institut (2024 – 2026)
 AEC (Attestation d'Études Collégiales), INSIM Institut (2024 – 2026)
 Licence L2 Science & Technologie, Université Mentouri Constantine (2019 – 2021)
+
 📜 Certifications (in progress)
 CCNA (200-301), Cisco: in training, labs on GitHub
 RHCSA (EX200), Red Hat: in preparation, labs on GitHub
+
 🛠️ Skills
 Area	Tools & Technologies
 Networking	OSPF, VLAN, Inter-VLAN routing, EtherChannel, HSRP, DHCP, NAT/PAT, ACLs, IPsec VPN, Cisco Packet Tracer
 Systems	Red Hat Enterprise Linux (RHEL), Windows Server, Active Directory, DNS, DHCP, VMware
 Security & Monitoring	Wazuh (SIEM/XDR), Wireshark, Nmap
 Scripting	Bash, Python
+
 🚀 Featured Projects
 Project	What it covers
 ccna-enterprise-lab	Complete Cisco Packet Tracer enterprise network: multi-area OSPF, EtherChannel, VLAN segmentation with Inter-VLAN routing (ROAS), HSRP redundancy, DHCP, NAT/PAT, and dynamic ACL security
@@ -28,6 +31,7 @@ cisco-site-to-site-ipsec-vpn	Cisco site-to-site IPsec VPN (IKEv1 Phase 1 & Phase
 windows-server-infrastructure-lab	Windows Server with AD DS, DHCP, DNS, and a site-to-site SSTP VPN between two branch networks using RRAS
 enterprise-wlan-radius-aaa	Enterprise wireless network with WPA2-Enterprise (802.1X) authentication through a centralized RADIUS/AAA server and multi-interface static routing
 rhcsa-linux-administration-labs	Hands-on RHEL 10 administration labs and core system configurations aligned with the RHCSA (EX200) objectives
+
 🌍 Languages
 
 Arabic (native) · English (upper intermediate) · French (intermediate)
