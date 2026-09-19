@@ -20,6 +20,8 @@ I build and document hands-on infrastructure labs covering enterprise networking
 # CCNA (200-301), Cisco:
 self-study, labs on GitHub
 
+# Linux Essentials (LPI)
+
 # RHCSA (EX200), Red Hat:
 in preparation, labs on GitHub
 
