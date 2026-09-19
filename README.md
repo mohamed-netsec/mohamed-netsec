@@ -7,19 +7,21 @@ I build and document hands-on infrastructure labs covering enterprise networking
 📍 Constantine, Algeria 📧 mohamed.lemoudda10@gmail.com 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-lemoudaa/)
 
 🎓 Education
-Bachelor in Cybersecurity, INSIM Institut (2025 – 2026)
 
-Technicien Supérieur en Administration et Sécurité des Réseaux Informatiques, INSIM Institut (2024 – 2026)
+-Bachelor in Cybersecurity, INSIM Institut (2025 – présent)
 
-AEC (Attestation d'Études Collégiales), INSIM Institut (2024 – 2026)
+-Technicien Supérieur en Administration et Sécurité des Réseaux Informatiques, INSIM Institut (2024 – 2026)
 
-Licence L2 Science & Technologie, Université Mentouri Constantine (2019 – 2021)
+-AEC (Attestation d'Études Collégiales), INSIM Institut (2024 – 2026)
+
+-Licence L2 Science & Technologie, Université Mentouri Constantine (2019 – 2021)
 
 📜 Certifications (in progress)
 CCNA (200-301), Cisco: in training, labs on GitHub
 RHCSA (EX200), Red Hat: in preparation, labs on GitHub
 
 🛠️ Skills
+
 Area	Tools & Technologies
 Networking	OSPF, VLAN, Inter-VLAN routing, EtherChannel, HSRP, DHCP, NAT/PAT, ACLs, IPsec VPN, Cisco Packet Tracer
 Systems	Red Hat Enterprise Linux (RHEL), Windows Server, Active Directory, DNS, DHCP, VMware
@@ -27,6 +29,7 @@ Security & Monitoring	Wazuh (SIEM/XDR), Wireshark, Nmap
 Scripting	Bash, Python
 
 🚀 Featured Projects
+
 Project	What it covers
 ccna-enterprise-lab	Complete Cisco Packet Tracer enterprise network: multi-area OSPF, EtherChannel, VLAN segmentation with Inter-VLAN routing (ROAS), HSRP redundancy, DHCP, NAT/PAT, and dynamic ACL security
 wazuh-soc-detection-lab	Wazuh SIEM/XDR lab: RHEL 10 manager with a Windows agent, covering installation, hardening, and real-time security monitoring
