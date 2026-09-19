@@ -46,10 +46,6 @@ I build and document hands-on infrastructure labs covering enterprise networking
 
 Arabic (native) · English (upper intermediate) · French (intermediate)
 
-## 🎯 Currently
-
-- Preparing for **CCNA** and **RHCSA**
-- Expanding my labs with more Linux/Windows automation (Bash & Python) and security monitoring
 
 ---
 
