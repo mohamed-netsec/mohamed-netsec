@@ -31,9 +31,11 @@ Scripting	Bash, Python
 # 🚀 Featured Projects
 
 Project	What it covers
-# ccna-enterprise-lab	Complete Cisco Packet Tracer enterprise network: multi-area OSPF, EtherChannel, VLAN segmentation with Inter-VLAN routing (ROAS), HSRP redundancy, DHCP, NAT/PAT, and dynamic ACL security
+# ccna-enterprise-lab	Complete Cisco Packet Tracer enterprise network:
+multi-area OSPF, EtherChannel, VLAN segmentation with Inter-VLAN routing (ROAS), HSRP redundancy, DHCP, NAT/PAT, and dynamic ACL security
 
-# wazuh-soc-detection-lab	Wazuh SIEM/XDR lab: RHEL 10 manager with a Windows agent, covering installation, hardening, and real-time security monitoring
+# wazuh-soc-detection-lab	Wazuh SIEM/XDR lab:
+RHEL 10 manager with a Windows agent, covering installation, hardening, and real-time security monitoring
 
 # cisco-site-to-site-ipsec-vpn	Cisco site-to-site IPsec VPN (IKEv1 Phase 1 & Phase 2) between two sites over a simulated WAN, with verification
 
