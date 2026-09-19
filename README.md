@@ -1,12 +1,12 @@
-Hi, I'm Mohamed Lemoudda 👋
+# Hi, I'm Mohamed Lemoudda 👋
 
 Junior Network & Systems Administrator | Cybersecurity (Bachelor) | CCNA & RHCSA in progress
 
 I build and document hands-on infrastructure labs covering enterprise networking, Linux and Windows server administration, VPNs, and security monitoring. I'm looking for a junior network / system administration role, and I'm also open to remote work and internships.
 
-📍 Constantine, Algeria 📧 mohamed.lemoudda10@gmail.com 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-lemoudaa/)
+# 📍 Constantine, Algeria 📧 mohamed.lemoudda10@gmail.com 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-lemoudaa/)
 
-🎓 Education
+# 🎓 Education
 
 -Bachelor in Cybersecurity, INSIM Institut (2025 – présent)
 
@@ -16,11 +16,11 @@ I build and document hands-on infrastructure labs covering enterprise networking
 
 -Licence L2 Science & Technologie, Université Mentouri Constantine (2019 – 2021)
 
-📜 Certifications (in progress)
+# 📜 Certifications (in progress)
 CCNA (200-301), Cisco: in training, labs on GitHub
 RHCSA (EX200), Red Hat: in preparation, labs on GitHub
 
-🛠️ Skills
+# 🛠️ Skills
 
 Area	Tools & Technologies
 Networking	OSPF, VLAN, Inter-VLAN routing, EtherChannel, HSRP, DHCP, NAT/PAT, ACLs, IPsec VPN, Cisco Packet Tracer
@@ -28,7 +28,7 @@ Systems	Red Hat Enterprise Linux (RHEL), Windows Server, Active Directory, DNS, 
 Security & Monitoring	Wazuh (SIEM/XDR), Wireshark, Nmap
 Scripting	Bash, Python
 
-🚀 Featured Projects
+# 🚀 Featured Projects
 
 Project	What it covers
 ccna-enterprise-lab	Complete Cisco Packet Tracer enterprise network: multi-area OSPF, EtherChannel, VLAN segmentation with Inter-VLAN routing (ROAS), HSRP redundancy, DHCP, NAT/PAT, and dynamic ACL security
@@ -38,7 +38,7 @@ windows-server-infrastructure-lab	Windows Server with AD DS, DHCP, DNS, and a si
 enterprise-wlan-radius-aaa	Enterprise wireless network with WPA2-Enterprise (802.1X) authentication through a centralized RADIUS/AAA server and multi-interface static routing
 rhcsa-linux-administration-labs	Hands-on RHEL 10 administration labs and core system configurations aligned with the RHCSA (EX200) objectives
 
-🌍 Languages
+# 🌍 Languages
 
 Arabic (native) · English (upper intermediate) · French (intermediate)
 
