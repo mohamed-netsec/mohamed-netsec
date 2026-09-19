@@ -17,8 +17,11 @@ I build and document hands-on infrastructure labs covering enterprise networking
 -Licence L2 Science & Technologie, Université Mentouri Constantine (2019 – 2021)
 
 # 📜 Certifications (in progress)
-CCNA (200-301), Cisco: in training, labs on GitHub
-RHCSA (EX200), Red Hat: in preparation, labs on GitHub
+# CCNA (200-301), Cisco:
+self-study, labs on GitHub
+
+# RHCSA (EX200), Red Hat:
+in preparation, labs on GitHub
 
 # 🛠️ Skills
 
